@@ -1,0 +1,2 @@
+1548946169
+/home/vriadm2/workspace/tutorials/conan/02-creating-package/test_package/build/db518a0445258babb7e1ed9482dfd67ae292219b/bin/libhello.so: b8a530e8c00c38ab1e6216ffb9b46290

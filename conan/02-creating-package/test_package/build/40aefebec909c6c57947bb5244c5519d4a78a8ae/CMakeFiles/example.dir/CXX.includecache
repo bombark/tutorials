@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vriadm2/.conan/data/Hello/0.1/demo/testing/package/87fdf97cb701ccab39d07def20f53b2bc695cf6e/include/hello.h
+
+/home/vriadm2/workspace/tutorials/conan/02-creating-package/test_package/example.cpp
+iostream
+-
+hello.h
+/home/vriadm2/workspace/tutorials/conan/02-creating-package/test_package/hello.h
+

@@ -1,0 +1,15 @@
+{
+ "profile": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=gcc\ncompiler.libcxx=libstdc++\ncompiler.version=5\nos=Linux\nos_build=Linux\n[options]\n[build_requires]\n[env]\n",
+ "root": {
+  "channel": null,
+  "version": null,
+  "user": null,
+  "name": null
+ },
+ "options": [
+  [
+   "Hello:shared",
+   "False"
+  ]
+ ]
+}

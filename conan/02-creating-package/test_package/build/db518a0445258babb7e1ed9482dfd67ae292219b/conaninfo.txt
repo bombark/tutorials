@@ -1,0 +1,33 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=5
+    os=Linux
+
+[requires]
+    Hello/0.1
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=5
+    os=Linux
+
+[full_requires]
+    Hello/0.1@demo/testing:2de3d908e1d9b246c9b2b6ea5c083ff1297f138b
+
+[full_options]
+    Hello:shared=True
+
+[recipe_hash]
+
+
+[env]
+
