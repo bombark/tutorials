@@ -1,3 +1,5 @@
+# http://blog.christianperone.com/2014/06/simple-and-effective-coin-segmentation-using-python-and-opencv/
+
 import numpy as np
 import cv2
 
